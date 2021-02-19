@@ -22,7 +22,7 @@ def get_filters():
     
     print('Hello! Let\'s explore some US bikeshare data!')
     
-    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs  
+    # get user input for city (chicago, new york city or washington). HINT: Use a while loop to handle invalid inputs  
     print('Would you like to see data for : ')
     city_list = []
     for cities in CITY_DATA:
@@ -53,7 +53,7 @@ def get_filters():
             print('              ==> {}    '.format(month_days.title()))
         filter = input().lower()
     
-    # get user input for month (all, january, february, ... , june)    
+    # get user input for month (january', 'february', 'march', 'april', 'may', 'june')    
     if filter == 'month' or filter == 'both':        
         print("Which month ? :")
         month_list = []

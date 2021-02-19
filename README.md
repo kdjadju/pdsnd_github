@@ -15,7 +15,7 @@ most common trip from start to end (i.e., most frequent combination of start sta
 total travel time
 average travel time
 counts of each user type
-counts of each gender (only available for NYC and Chicago)
+counts of each gender (only available for New York City and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used

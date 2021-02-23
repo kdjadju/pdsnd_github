@@ -1,10 +1,12 @@
-### Date created 2021/02/18
-Include the date you created this project and README file.
 
+### Date created 
+2021/02/18
+### type docs
+Documentation changes
 ### Project Title
-Explore US Bikeshare Data
+Exploring bike-sharing data in selected cities in the United States
 
-### Description
+### The Body 
 In this project, we used Python to explore data related to bike sharing systems for three major cities in the United States: Chicago, New York, and Washington. We wrote code to import the data and answer interesting questions about it by calculating descriptive statistics. We also wrote a script that takes raw input to create an interactive experience in the terminal to present these statistics.
 most common month
 most common day of week
@@ -26,3 +28,7 @@ washington.csv
 ### Credits
 http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_python.html
 https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science
+
+### The Footer
+redaction of the readme file
+fix readme file to comply with Udacity validation message style guide
